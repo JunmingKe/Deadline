@@ -1,2 +1,2 @@
 # Deadline
-## https://junmingke.github.io/Deadline/
+## https://junmingke.github.io/deadlines/
